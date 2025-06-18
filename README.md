@@ -5,7 +5,7 @@
 
  About
 
-This repository contains all the code, assignments, and project work completed as part of the **Full Stack Development Internship (JOVAC)**. The training focuses on building web applications using modern frontend and backend technologies.
+This repository contains all the code, assignments, and project work completed as part of the Full Stack Development Internship. 
 > **Internship Duration:** June 10, 2025 – November 2025  
 - **Training Phase:** June 10 – July 31  
 - **Project Phase:** August – November

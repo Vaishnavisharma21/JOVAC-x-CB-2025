@@ -1,9 +1,9 @@
 # JOVAC-x-CB-2025
-💻 Full Stack Development - JOVAC Internship
+ Full Stack Development - JOVAC Internship
 
 ---
 
-📌 Overview
+ About
 
 This repository contains all the code, assignments, and project work completed as part of the **Full Stack Development Internship (JOVAC)**. The training focuses on building web applications using modern frontend and backend technologies.
 > **Internship Duration:** June 10, 2025 – November 2025  
@@ -11,7 +11,7 @@ This repository contains all the code, assignments, and project work completed a
 - **Project Phase:** August – November
 ---
 
-## 🛠️ Tech Stack Covered
+## Tech Stack Covered
 
 ### Frontend
 - HTML, CSS, JavaScript
